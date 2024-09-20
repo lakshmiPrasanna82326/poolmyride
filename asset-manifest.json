@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poolmyride/static/css/main.cd56ecb0.css",
+    "main.js": "/poolmyride/static/js/main.08c9a4f0.js",
+    "static/js/453.b88c6fac.chunk.js": "/poolmyride/static/js/453.b88c6fac.chunk.js",
+    "static/media/car3.webp": "/poolmyride/static/media/car3.e7bfdcb86cc4838945b5.webp",
+    "index.html": "/poolmyride/index.html",
+    "main.cd56ecb0.css.map": "/poolmyride/static/css/main.cd56ecb0.css.map",
+    "main.08c9a4f0.js.map": "/poolmyride/static/js/main.08c9a4f0.js.map",
+    "453.b88c6fac.chunk.js.map": "/poolmyride/static/js/453.b88c6fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd56ecb0.css",
+    "static/js/main.08c9a4f0.js"
+  ]
+}
